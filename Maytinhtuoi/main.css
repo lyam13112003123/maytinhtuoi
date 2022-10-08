@@ -1,0 +1,50 @@
+#header{
+    min-height: 5000px;
+}
+
+#heading-id{
+    color:blue;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+h1{
+    color:green;
+}
+.heading-class{
+    color: rgb(175, 38, 68)
+}
+
+._Center{
+    text-align: center;
+}
+
+._Button{
+    background-color: white;
+}
+
+._Button:hover{
+    background-color: red;
+}
+
+#header a{
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+}
+
+#_Output{
+    border:solid 1px black;
+    display: inline-block;
+}
+
+#main{
+    height: 500px;
+    /* background-color: #000; */
+}
+
+/* #main p{
+    color: white;
+    font-size: 20px;
+} */
